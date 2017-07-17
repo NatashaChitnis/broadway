@@ -1,0 +1,68 @@
+* {
+	margin: auto; /*horizontally center elements*/
+	/*padding: 10px;*/
+	font-family: Helvetica;
+	text-align: center;
+
+
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+h2{
+	font-size: 32px;
+	font-weight: bold;
+}
+
+a {
+	display: block;
+	font-size: 18px;
+	color: white;
+}
+
+li{
+	display: inline;
+}
+
+footer {
+	background-color: dimgray;
+}
+footer a {
+	display: inline;
+	background-color: dimgray;
+}
+#heading-portion {
+	background-image: url("../images/the-flatiron-building_background-image.png");
+
+}
+
+#middle-section {
+	background-color: white;
+}
+
+#mid-page-division{
+	background-image: url("../images/the-flatiron-building_background-image.png");	
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+
+#copyright{
+	text-align: left;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
+
+.process-titles {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.process-description{
+	font-size: 14px;
+}
